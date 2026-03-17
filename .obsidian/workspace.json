@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39f3f14cbee14b77",
+        "id": "cc3cc4ca657a8e2f",
         "type": "tabs",
         "children": [
           {
-            "id": "d75130eee66e8726",
+            "id": "05ca957931db5dfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,65 +20,8 @@
               "icon": "lucide-file",
               "title": "ITIL 4 - Estudos"
             }
-          },
-          {
-            "id": "7f51ad7f6468380e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parte 1 - Introdução conceitos chaves/O que é o ITIL 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "O que é o ITIL 4"
-            }
-          },
-          {
-            "id": "9210ea10fb15938a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parte 2 - Quatro dimensões do gerenciamento de serviços/Dimensões.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dimensões"
-            }
-          },
-          {
-            "id": "f0de0b4982332953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parte 3 - O sistema de valor da ITIL 4/Sistema de valor e serviços.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistema de valor e serviços"
-            }
-          },
-          {
-            "id": "9264fc394835a6dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parte 4 - Princípios Orientadores da ITIL 4/Principios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Principios"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,12 +183,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9264fc394835a6dc",
+  "active": "05ca957931db5dfd",
   "lastOpenFiles": [
-    "Parte 3 - O sistema de valor da ITIL 4/Sistema de valor e serviços.md",
     "Parte 4 - Princípios Orientadores da ITIL 4/Principios.md",
+    "Parte 3 - O sistema de valor da ITIL 4/Sistema de valor e serviços.md",
     "Parte 2 - Quatro dimensões do gerenciamento de serviços/Dimensões.md",
     "Parte 1 - Introdução conceitos chaves/O que é o ITIL 4.md",
+    "Parte 2 - Quatro dimensões do gerenciamento de serviços/Mapa Mental.png",
+    "Parte 1 - Introdução conceitos chaves/Mapa Mental.png",
+    "Parte 3 - O sistema de valor da ITIL 4/Mapa Mental.png",
+    "Parte 4 - Princípios Orientadores da ITIL 4/Mapa mental.png",
     "Sem título",
     "Parte 6 - Práticas para o gerenciamento de serviços",
     "Parte 5 - Cadeira de valor do serviço",
