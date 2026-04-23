@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITIL 4 - Estudos.md",
+                "file": "Parte 3 - O sistema de valor da ITIL 4/Sistema de valor e serviços.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ITIL 4 - Estudos"
+              "title": "Sistema de valor e serviços"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Cadeia de valores de serviço"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "right": {
     "id": "48bd9d4711af33ff",
@@ -198,16 +197,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "dc170d7d7ba49273",
+  "active": "20bfa7b65e5e9e44",
   "lastOpenFiles": [
+    "Parte 3 - O sistema de valor da ITIL 4/Mapa Mental.png",
+    "Parte 4 - Princípios Orientadores da ITIL 4/Principios.md",
+    "Parte 4 - Princípios Orientadores da ITIL 4/Mapa mental.png",
     "Parte 5 - Cadeira de valor do serviço/37a18fe4-ee35-4561-b485-e5d7d8a47e9a.png",
+    "ITIL 4 - Estudos.md",
     "Parte 5 - Cadeira de valor do serviço/Cadeia de valores de serviço.md",
     "Parte 1 - Introdução conceitos chaves/Mapa Mental.png",
     "Parte 2 - Quatro dimensões do gerenciamento de serviços/Mapa Mental.png",
-    "Parte 3 - O sistema de valor da ITIL 4/Mapa Mental.png",
-    "Parte 4 - Princípios Orientadores da ITIL 4/Mapa mental.png",
-    "Parte 4 - Princípios Orientadores da ITIL 4/Principios.md",
-    "ITIL 4 - Estudos.md",
     "Parte 3 - O sistema de valor da ITIL 4/Sistema de valor e serviços.md",
     "Parte 2 - Quatro dimensões do gerenciamento de serviços/Dimensões.md",
     "Parte 1 - Introdução conceitos chaves/O que é o ITIL 4.md",
