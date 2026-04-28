@@ -1,0 +1,4 @@
+- Valor → percepção do consumidor
+- Valor NÃO é entregue → é co-criado
+- Consumidor → usuário + cliente + patrocinador
+- Serviço ruim (lag, queda, etc.) → valor diminui
