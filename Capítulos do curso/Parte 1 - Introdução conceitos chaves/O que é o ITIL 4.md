@@ -1,7 +1,6 @@
 ITIL é um framework
 - Dão conselhos para cocriarão de valor com os clientes e stakeholders
 
-
 ##### **Contexto**
 		Para quem é recomendado?
 		- Usuários e clientes de TI
