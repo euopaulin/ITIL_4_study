@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capítulos do curso/Parte 5 - Cadeira de valor do serviço/Cadeia de valores de serviço.md",
+                "file": "Capítulos do curso/Parte 1 - Introdução conceitos chaves/O que é o ITIL 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cadeia de valores de serviço"
+              "title": "O que é o ITIL 4"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 374.5
   },
   "right": {
     "id": "48bd9d4711af33ff",
@@ -187,19 +187,21 @@
   },
   "active": "338d45e0076d8de4",
   "lastOpenFiles": [
+    "Capítulos do curso/Parte 1 - Introdução conceitos chaves/Mapa Mental.png",
+    "Capítulos do curso/Parte 1 - Introdução conceitos chaves/O que é o ITIL 4.md",
+    "1 - Valor/SVS - Sistema de Valor de Serviço.md",
+    "1 - Valor/Valor.md",
+    "Capítulos do curso/Parte 5 - Cadeira de valor do serviço/Cadeia de valores de serviço.md",
     "Capítulos do curso/Parte 3 - O sistema de valor da ITIL 4/Sistema de valor e serviços.md",
     "Capítulos do curso/Parte 4 - Princípios Orientadores da ITIL 4/Principios.md",
     "Capítulos do curso/Parte 4 - Princípios Orientadores da ITIL 4/Mapa mental.png",
     "Capítulos do curso/Parte 3 - O sistema de valor da ITIL 4/Mapa Mental.png",
     "Capítulos do curso/Parte 2 - Quatro dimensões do gerenciamento de serviços/Dimensões.md",
-    "Capítulos do curso/Parte 1 - Introdução conceitos chaves/O que é o ITIL 4.md",
     "2 - Organização e pessoas/Organizações e Pessoas.md",
-    "1 - Valor/Valor.md",
     "Resumos.md",
     "ITIL 4 - Estudos.md",
     "Incidente X Problema X Requisição de Serviço.md",
     "Capítulos do curso/Parte 2 - Quatro dimensões do gerenciamento de serviços/Mapa Mental.png",
-    "Capítulos do curso/Parte 1 - Introdução conceitos chaves/Mapa Mental.png",
     "3 - Serviço/Serviço.md",
     "Sem título",
     "4 - Incidente X Problema",
@@ -208,7 +210,6 @@
     "2 - Organização e pessoas",
     "1 - Valor",
     "Capítulos do curso/Parte 5 - Cadeira de valor do serviço/37a18fe4-ee35-4561-b485-e5d7d8a47e9a.png",
-    "Capítulos do curso/Parte 5 - Cadeira de valor do serviço/Cadeia de valores de serviço.md",
     "Parte 6 - Práticas para o gerenciamento de serviços",
     "Capítulos do curso/Parte 5 - Cadeira de valor do serviço",
     "Capítulos do curso/Parte 4 - Princípios Orientadores da ITIL 4",
